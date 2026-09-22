@@ -1,0 +1,16 @@
+{
+  "endpoints": [],
+  "parameters": [],
+  "subdomains": [
+    "as207960 test intermediate - example.com",
+    "dev.example.com",
+    "example.com",
+    "m.example.com",
+    "m.testexample.com",
+    "products.example.com",
+    "subjectname@example.com",
+    "support.example.com",
+    "user@example.com",
+    "www.example.com"
+  ]
+}

